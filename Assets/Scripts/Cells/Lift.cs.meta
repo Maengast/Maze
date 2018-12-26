@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f2b3e7ea4357909469a5a99b32ac6614
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ForceShieldPrefab: {fileID: 1586883643362940, guid: 5943313bf96b5ba4bae0a6a0535b094e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
